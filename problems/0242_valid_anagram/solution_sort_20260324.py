@@ -1,12 +1,13 @@
 """
 LeetCode 242. Valid Anagram
-https://leetcode.com/problems/valid-anagram/
+別解：ソート
+時間 O(n log n), 空間 O(n)
 """
 
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        pass
+        return sorted(s) == sorted(t)
 
 
 # --- テスト ---
