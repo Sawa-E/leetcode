@@ -10,7 +10,7 @@
 
 | # | トピック | 目安問題数 | 進捗 |
 |---|---------|-----------|------|
-| 1 | 配列 & ハッシュマップ | 5-8問 | 3/5 |
+| 1 | 配列 & ハッシュマップ | 5-8問 | 4/5 |
 | 2 | Two Pointers & Sliding Window | 5-8問 | |
 | 3 | スタック & キュー | 5問 | |
 | 4 | リンクリスト | 5問 | |
@@ -28,3 +28,4 @@
 | 1 | Two Sum | Easy | 配列, ハッシュマップ | Python |
 | 217 | Contains Duplicate | Easy | 配列, ハッシュマップ | Python |
 | 242 | Valid Anagram | Easy | 配列, ハッシュマップ, 文字列 | Python |
+| 49 | Group Anagrams | Medium | 配列, ハッシュマップ, 文字列, ソート | Python |

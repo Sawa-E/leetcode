@@ -15,8 +15,6 @@ class Solution:
                 return [d[complement], i]
             d[nums[i]] = i
 
-
-
 # --- テスト ---
 if __name__ == "__main__":
     sol = Solution()
